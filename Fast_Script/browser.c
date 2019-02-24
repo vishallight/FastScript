@@ -11,7 +11,7 @@
 	puts("\n\t\t\t Select the Browser  \n1.FIREFOX \n2.CHROME\n");
 		scanf("%d",&bro);		//selcting the browser
 		clear;
-	puts("\t\t\t Enter the word to SEARCH in \n");
+	puts("\t\t\t Enter the word to SEARCH in use "+" for Space in between \n");
 		scanf("%s",&sear);		// search in to
 		clear;
 		if(bro==1)
